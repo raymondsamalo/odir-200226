@@ -2,10 +2,11 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+*.pth
+tmp/
 # C extensions
 *.so
-
+wandb/
 # Distribution / packaging
 .Python
 build/
